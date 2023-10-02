@@ -7,5 +7,5 @@
     "matchPackageNames": ["debian"],
     "versioning": "debian"
   }],
-  "versionCompatibility": "^(?<version>.*)(?<compatibility>-.*)?$"
+  "versionCompatibility": "^(?<version>[^-]+)(?<compatibility>-.*)?$"
 }
