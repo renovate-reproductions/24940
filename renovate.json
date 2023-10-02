@@ -6,6 +6,5 @@
   "packageRules": [{
     "matchPackageNames": ["debian"],
     "versioning": "debian"
-  }],
-  "versionCompatibility": "^(?<version>[^-]+)(?<compatibility>-.*)?$"
+  }]
 }
