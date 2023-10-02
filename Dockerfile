@@ -1,4 +1,4 @@
-FROM debian:bullseye
-FROM debian:bullseye-slim
-FROM debian:11
-FROM debian:11-slim
+FROM debian:bookworm
+FROM debian:bookworm-slim
+FROM debian:12
+FROM debian:12-slim
